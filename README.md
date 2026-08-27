@@ -1,36 +1,18 @@
-Hi, I'm Jana 👋
+# 💫 About Me:
+Hi, I'm Jana 👋<br><br>Computer Science & Artificial Intelligence student at Cairo University, focused on Machine Learning and applied AI. I like building systems that reason over data — from multi-agent RAG pipelines to ML-driven applications.<br><br>🎓 3rd-year CS/AI @ Cairo University (Faculty of Computers and Artificial Intelligence)<br><br>🔭 Enrolled in DEPI's Data Science & AI Track (Round 5)<br><br>🤖 Previously: Generative AI Intern @ CIB, Data Warehousing Intern @ National Bank of Egypt<br><br>🌱 Currently deepening my knowledge of Deep Learning, Generative AI, and agentic systems<br><br>💬 Ask me about ML, RAG pipelines, prompt engineering, or competitive programming<br><br>📫 Reach me at janaahmedf18@gmail.com<br><br>Skills: AI & ML: Machine Learning Fundamentals · Deep Learning · Generative AI · Prompt Engineering · Retrieval-Augmented Generation (RAG) · Multi-Agent Systems<br><br>Languages: Python · C++ · JavaScript<br><br>Data: SQL · Vector Databases (pgvector)<br><br>Web: HTML5 · CSS3 · Front-End & Back-End Development<br><br>CS Fundamentals: Data Structures · Algorithms · OOP Tools: Git · GitHub<br><br>Featured Projects AI-Job-Matcher- — Python project matching candidates to job listings using AI<br><br>DeepFakeLens — Multi-agent AI system for deepfake detection, with scraper, RAG knowledge cache, and search agents (FastAPI backend)<br><br>Multi-Agent RAG Pipeline — In progress: research pipeline on Transformer architecture & training strategy, with retrieval, embeddings, and PostgreSQL/pgvector<br><br>Competitive Programming: 150+ problems solved across Codeforces, HackerRank, and AtCoder
 
-Computer Science & Artificial Intelligence student at Cairo University, focused on Machine Learning and applied AI. I like building systems that reason over data — from multi-agent RAG pipelines to ML-driven applications.
 
-🎓 3rd-year CS/AI @ Cairo University (Faculty of Computers and Artificial Intelligence)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/755876080992125100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jana-ahmed-a6b9a8268/) 
 
-🔭 Enrolled in DEPI's Data Science & AI Track (Round 5)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jana-ctrl-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Jana-ctrl-s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jana-ctrl-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🤖 Previously: Generative AI Intern @ CIB, Data Warehousing Intern @ National Bank of Egypt
+---
+[![](https://komarev.com/ghpvc/?username=Jana-ctrl-s&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 Currently deepening my knowledge of Deep Learning, Generative AI, and agentic systems
-
-💬 Ask me about ML, RAG pipelines, prompt engineering, or competitive programming
-
-📫 Reach me at janaahmedf18@gmail.com
-
-Skills:
-AI & ML: Machine Learning Fundamentals · Deep Learning · Generative AI · Prompt Engineering · Retrieval-Augmented Generation (RAG) · Multi-Agent Systems 
-
-Languages: Python · C++ · JavaScript 
-
-Data: SQL · Vector Databases (pgvector) 
-
-Web: HTML5 · CSS3 · Front-End & Back-End Development 
-
-CS Fundamentals: Data Structures · Algorithms · OOP Tools: Git · GitHub
-
-Featured Projects
-AI-Job-Matcher- — Python project matching candidates to job listings using AI
-
-DeepFakeLens — Multi-agent AI system for deepfake detection, with scraper, RAG knowledge cache, and search agents (FastAPI backend)
-
-Multi-Agent RAG Pipeline — In progress: research pipeline on Transformer architecture & training strategy, with retrieval, embeddings, and PostgreSQL/pgvector
-
-Competitive Programming:
-150+ problems solved across Codeforces, HackerRank, and AtCoder
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
