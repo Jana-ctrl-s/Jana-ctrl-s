@@ -15,12 +15,16 @@ Computer Science & Artificial Intelligence student at Cairo University, focused 
 📫 Reach me at janaahmedf18@gmail.com
 
 Skills:
-AI & ML: Machine Learning Fundamentals · Deep Learning · Generative AI · Prompt Engineering · Retrieval-Augmented Generation (RAG) · Multi-Agent Systems Languages: Python · C++ · JavaScript Data: SQL · Vector Databases (pgvector) Web: HTML5 · CSS3 · Front-End & Back-End Development CS Fundamentals: Data Structures · Algorithms · OOP Tools: Git · GitHub
+AI & ML: Machine Learning Fundamentals · Deep Learning · Generative AI · Prompt Engineering · Retrieval-Augmented Generation (RAG) · Multi-Agent Systems 
+Languages: Python · C++ · JavaScript 
+Data: SQL · Vector Databases (pgvector) 
+Web: HTML5 · CSS3 · Front-End & Back-End Development 
+CS Fundamentals: Data Structures · Algorithms · OOP Tools: Git · GitHub
 
 Featured Projects
 AI-Job-Matcher- — Python project matching candidates to job listings using AI
 DeepFakeLens — Multi-agent AI system for deepfake detection, with scraper, RAG knowledge cache, and search agents (FastAPI backend)
 Multi-Agent RAG Pipeline — In progress: research pipeline on Transformer architecture & training strategy, with retrieval, embeddings, and PostgreSQL/pgvector
-Competitive Programming
 
+Competitive Programming:
 150+ problems solved across Codeforces, HackerRank, and AtCoder
